@@ -6,9 +6,8 @@
 ![training_and_deployment_pipeline](_assets/feature_importance_gain.png)
 
 ## Architecture
-![training_and_deployment_pipeline](_assets/training_and_deployment_pipeline_updated.png)
+![training_and_deployment_pipeline](_assets/arch.png)
 
-![training_and_deployment_pipeline](_assets/high_level_overview.png)
 
 
 </div>
